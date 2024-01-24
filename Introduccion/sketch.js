@@ -4,6 +4,8 @@ let connectBtn;
 
 function setup() {
     createCanvas(400, 400);
+  
+  // HOLA
     background(220);
     port = createSerial();
     connectBtn = createButton('Connect to micro:bit');
