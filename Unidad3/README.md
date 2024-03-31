@@ -47,7 +47,7 @@
 1. ¿Qué aspectos de la aplicación necesito diseñar, implementar o probar hoy?
 2. ¿Cuál es mi objetivo principal para esta sesión?
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -58,7 +58,7 @@
 
 #### Micro-sesión 2 (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -69,7 +69,7 @@
 
 #### Micro-sesión 3 (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -80,7 +80,7 @@
 
 #### Micro-sesión 4. (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -105,7 +105,7 @@
 1. ¿Qué aspectos de la aplicación necesito diseñar, implementar o probar hoy?
 2. ¿Cuál es mi objetivo principal para esta sesión?
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -116,7 +116,7 @@
 
 #### Micro-sesión 2 (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -127,7 +127,7 @@
 
 #### Micro-sesión 3 (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -138,7 +138,7 @@
 
 #### Micro-sesión 4. (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -163,7 +163,7 @@
 1. ¿Qué aspectos de la aplicación necesito diseñar, implementar o probar hoy?
 2. ¿Cuál es mi objetivo principal para esta sesión?
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -174,7 +174,7 @@
 
 #### Micro-sesión 2 (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -185,7 +185,7 @@
 
 #### Micro-sesión 3 (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -196,7 +196,7 @@
 
 #### Micro-sesión 4. (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -224,7 +224,7 @@
 1. ¿Qué aspectos de la aplicación necesito diseñar, implementar o probar hoy?
 2. ¿Cuál es mi objetivo principal para esta sesión?
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -235,7 +235,7 @@
 
 #### Micro-sesión 2 (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -246,7 +246,7 @@
 
 #### Micro-sesión 3 (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -257,7 +257,7 @@
 
 #### Micro-sesión 4. (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -282,7 +282,7 @@
 1. ¿Qué aspectos de la aplicación necesito diseñar, implementar o probar hoy?
 2. ¿Cuál es mi objetivo principal para esta sesión?
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -293,7 +293,7 @@
 
 #### Micro-sesión 2 (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -304,7 +304,7 @@
 
 #### Micro-sesión 3 (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -315,7 +315,7 @@
 
 #### Micro-sesión 4. (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -340,7 +340,7 @@
 1. ¿Qué aspectos de la aplicación necesito diseñar, implementar o probar hoy?
 2. ¿Cuál es mi objetivo principal para esta sesión?
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -351,7 +351,7 @@
 
 #### Micro-sesión 2 (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -362,7 +362,7 @@
 
 #### Micro-sesión 3 (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -373,7 +373,7 @@
 
 #### Micro-sesión 4. (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -402,7 +402,7 @@
 1. ¿Qué aspectos de la aplicación necesito diseñar, implementar o probar hoy?
 2. ¿Cuál es mi objetivo principal para esta sesión?
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -413,7 +413,7 @@
 
 #### Micro-sesión 2 (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -424,7 +424,7 @@
 
 #### Micro-sesión 3 (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -435,7 +435,7 @@
 
 #### Micro-sesión 4. (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -460,7 +460,7 @@
 1. ¿Qué aspectos de la aplicación necesito diseñar, implementar o probar hoy?
 2. ¿Cuál es mi objetivo principal para esta sesión?
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -471,7 +471,7 @@
 
 #### Micro-sesión 2 (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -482,7 +482,7 @@
 
 #### Micro-sesión 3 (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -493,7 +493,7 @@
 
 #### Micro-sesión 4. (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -518,7 +518,7 @@
 1. ¿Qué aspectos de la aplicación necesito diseñar, implementar o probar hoy?
 2. ¿Cuál es mi objetivo principal para esta sesión?
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -529,7 +529,7 @@
 
 #### Micro-sesión 2 (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -540,7 +540,7 @@
 
 #### Micro-sesión 3 (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -551,7 +551,7 @@
 
 #### Micro-sesión 4. (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -581,7 +581,7 @@
 1. ¿Qué aspectos de la aplicación necesito diseñar, implementar o probar hoy?
 2. ¿Cuál es mi objetivo principal para esta sesión?
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -592,7 +592,7 @@
 
 #### Micro-sesión 2 (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -603,7 +603,7 @@
 
 #### Micro-sesión 3 (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -614,7 +614,7 @@
 
 #### Micro-sesión 4. (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -639,7 +639,7 @@
 1. ¿Qué aspectos de la aplicación necesito diseñar, implementar o probar hoy?
 2. ¿Cuál es mi objetivo principal para esta sesión?
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -650,7 +650,7 @@
 
 #### Micro-sesión 2 (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -661,7 +661,7 @@
 
 #### Micro-sesión 3 (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -672,7 +672,7 @@
 
 #### Micro-sesión 4. (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -697,7 +697,7 @@
 1. ¿Qué aspectos de la aplicación necesito diseñar, implementar o probar hoy?
 2. ¿Cuál es mi objetivo principal para esta sesión?
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -708,7 +708,7 @@
 
 #### Micro-sesión 2 (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -719,7 +719,7 @@
 
 #### Micro-sesión 3 (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
@@ -730,7 +730,7 @@
 
 #### Micro-sesión 4. (25 minutos)
 
-**Trabajo en concetración**
+**Trabajo en concentración**
 
 **Meta-aprendizaje:**
 
