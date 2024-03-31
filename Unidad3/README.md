@@ -44,7 +44,7 @@
 
 **Planeación:**
 
-1. ¿Qué aspectos de la aplicación necesito diseñar, implementar o probar hoy?
+1. ¿Qué a trabajar hoy?
 2. ¿Cuál es mi objetivo principal para esta sesión?
 
 **Trabajo en concentración**
@@ -102,7 +102,7 @@
 
 **Planeación:**
 
-1. ¿Qué aspectos de la aplicación necesito diseñar, implementar o probar hoy?
+1. ¿Qué a trabajar hoy?
 2. ¿Cuál es mi objetivo principal para esta sesión?
 
 **Trabajo en concentración**
@@ -160,7 +160,7 @@
 
 **Planeación:**
 
-1. ¿Qué aspectos de la aplicación necesito diseñar, implementar o probar hoy?
+1. ¿Qué a trabajar hoy?
 2. ¿Cuál es mi objetivo principal para esta sesión?
 
 **Trabajo en concentración**
@@ -221,7 +221,7 @@
 
 **Planeación:**
 
-1. ¿Qué aspectos de la aplicación necesito diseñar, implementar o probar hoy?
+1. ¿Qué a trabajar hoy?
 2. ¿Cuál es mi objetivo principal para esta sesión?
 
 **Trabajo en concentración**
@@ -279,7 +279,7 @@
 
 **Planeación:**
 
-1. ¿Qué aspectos de la aplicación necesito diseñar, implementar o probar hoy?
+1. ¿Qué a trabajar hoy?
 2. ¿Cuál es mi objetivo principal para esta sesión?
 
 **Trabajo en concentración**
@@ -337,7 +337,7 @@
 
 **Planeación:**
 
-1. ¿Qué aspectos de la aplicación necesito diseñar, implementar o probar hoy?
+1. ¿Qué a trabajar hoy?
 2. ¿Cuál es mi objetivo principal para esta sesión?
 
 **Trabajo en concentración**
@@ -399,7 +399,7 @@
 
 **Planeación:**
 
-1. ¿Qué aspectos de la aplicación necesito diseñar, implementar o probar hoy?
+1. ¿Qué a trabajar hoy?
 2. ¿Cuál es mi objetivo principal para esta sesión?
 
 **Trabajo en concentración**
@@ -457,7 +457,7 @@
 
 **Planeación:**
 
-1. ¿Qué aspectos de la aplicación necesito diseñar, implementar o probar hoy?
+1. ¿Qué a trabajar hoy?
 2. ¿Cuál es mi objetivo principal para esta sesión?
 
 **Trabajo en concentración**
@@ -515,7 +515,7 @@
 
 **Planeación:**
 
-1. ¿Qué aspectos de la aplicación necesito diseñar, implementar o probar hoy?
+1. ¿Qué a trabajar hoy?
 2. ¿Cuál es mi objetivo principal para esta sesión?
 
 **Trabajo en concentración**
@@ -578,7 +578,7 @@
 
 **Planeación:**
 
-1. ¿Qué aspectos de la aplicación necesito diseñar, implementar o probar hoy?
+1. ¿Qué a trabajar hoy?
 2. ¿Cuál es mi objetivo principal para esta sesión?
 
 **Trabajo en concentración**
@@ -636,7 +636,7 @@
 
 **Planeación:**
 
-1. ¿Qué aspectos de la aplicación necesito diseñar, implementar o probar hoy?
+1. ¿Qué a trabajar hoy?
 2. ¿Cuál es mi objetivo principal para esta sesión?
 
 **Trabajo en concentración**
@@ -694,7 +694,7 @@
 
 **Planeación:**
 
-1. ¿Qué aspectos de la aplicación necesito diseñar, implementar o probar hoy?
+1. ¿Qué a trabajar hoy?
 2. ¿Cuál es mi objetivo principal para esta sesión?
 
 **Trabajo en concentración**
